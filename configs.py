@@ -9,13 +9,13 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "a3c4a4c062a825d73ec950ff72ac4213")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5949436804:AAHSxJpsOCy0rosQIrBNNewKbq379XEBWtI")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MomSearchBotV2")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQB1ON2S9_HIEyorIEJqTSxZpimwtzcRB1sohhTU_RsIhvZacMY2h3CuwPey0-Kx2BxpgWDeJEQIT395itCcXfIwbkNEURunvt9Vb48_yyB26t1Pqbk--IL85smsZ0zN2sSX1AMjXGDBAZwL10hfmP0DnV7S4D6Fcf0DA1nRvtXT10QGCpsk2unRCjvxwgyLrWKZCZcJbkLExHr9Xz7x7hVXCtYeQJuWdGiAz6eFcvW6S0BEKKHGTY9vCRiFsgzu_Bb4uBiCZ_pQ7wDWJzZjXkmp6D6hLHTMmkUpLnwruUhNsy5FsFl6eYN8cgSzULRyG60zUdnpFubYjCxb9ZJoifJ0AAAAAWImnKYA")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING","BQB1ON2S9_HIEyorIEJqTSxZpimwtzcRB1sohhTU_RsIhvZacMY2h3CuwPey0-Kx2BxpgWDeJEQIT395itCcXfIwbkNEURunvt9Vb48_yyB26t1Pqbk--IL85smsZ0zN2sSX1AMjXGDBAZwL10hfmP0DnV7S4D6Fcf0DA1nRvtXT10QGCpsk2unRCjvxwgyLrWKZCZcJbkLExHr9Xz7x7hVXCtYeQJuWdGiAz6eFcvW6S0BEKKHGTY9vCRiFsgzu_Bb4uBiCZ_pQ7wDWJzZjXkmp6D6hLHTMmkUpLnwruUhNsy5FsFl6eYN8cgSzULRyG60zUdnpFubYjCxb9ZJoifJ0AAAAAWImnKYA")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001818887176")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "MomSearch_Bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5941664934"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Srivastav_77")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "vegamovieio")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+#    GROUP_USERNAME = os.getenv("alphaimdb")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
